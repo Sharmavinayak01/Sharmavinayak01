@@ -2,7 +2,7 @@
  <h1 align="center">Hi 👋, I'm Vinayak Sharma</h1>
 
 - 🔭 I’m currently working on UI/UX Design
-- 🌱 I’m currently learning Backend
+- 🌱 I’m currently learning Frontend
 - 💬 Ask me anything about UI Designing 
 - 📫 How to reach me: vinayaksharma2233@gmail.com
 - 😄 My Portfolio: https://vinayakportfolio.framer.website/
