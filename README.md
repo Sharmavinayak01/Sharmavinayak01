@@ -49,7 +49,7 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sharmavinayak01&layout=compact&theme=tokyonight&hide_border=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Sharmavinayak01&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Sharmavinayak01&theme=tokyonight&hide_border=true)
 
 
 <br>
