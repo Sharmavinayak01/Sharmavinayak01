@@ -45,11 +45,16 @@
 
 ### 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Sharmavinayak01&show_icons=true&theme=tokyonight&hide_border=true)
+## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sharmavinayak01&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sharmavinayak01&show_icons=true&theme=radical&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharmavinayak01&layout=compact&theme=radical&hide_border=true" height="165"/>
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Sharmavinayak01&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Sharmavinayak01&theme=radical&hide_border=true"/>
+</p>
 
 
 <br>
