@@ -1,11 +1,12 @@
 ## Hi there 👋
  <h1 align="center">Hi 👋, I'm Vinayak Sharma</h1>
 
-- 🔭 I’m currently working on UI/UX Design
-- 🌱 I’m currently learning Frontend
-- 💬 Ask me anything about UI Designing 
+- 🎨 I’m currently working on UI Design
+- 📊 I’m currently learning Data Analytics
+- 🐍 Learning Python, SQL, Excel & Power BI
+- 💡 Interested in UI Design & Data Analytics
 - 📫 How to reach me: vinayaksharma2233@gmail.com
-- 😄 My Portfolio: https://vinayakportfolio.framer.website/
+- 🌐 My Portfolio: https://vinayakportfolio.framer.website/
   
 ### Connect with me:
 <div id="badges">
